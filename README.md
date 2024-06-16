@@ -69,3 +69,6 @@ export default MyComponent;`
 
 ### License
 The Beep font family is free and open sourced under the [SIL Open Font License](./LICENSE.TXT).
+
+### Download
+The Beep font family is free to download. OpenTypeFormat is available for download. 
