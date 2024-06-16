@@ -1,0 +1,29 @@
+{
+  "name": "beepsans",
+  "version": "1.0.0",
+  "description": "Beep is a typeface made for developers and designers, embodying modern principles of simplicity, minimalism, and speed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulims/beep-font.git"
+  },
+  "keywords": [
+    "Typeface",
+    "beep",
+    "font",
+    "sans"
+  ],
+  "author": "Agbama Ulimhuka",
+  "license": "SIL OPEN FONT LICENSE",
+  "bugs": {
+    "url": "https://github.com/ulims/beep-font/issues"
+  },
+  "homepage": "https://github.com/ulims/beep-font#readme",
+  "dependencies": {
+    "beep": "^0.0.0"
+  }
+  
+}

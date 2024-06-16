@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Beep';
+    font-style: normal;
+    /* Thin */
+    font-weight: 100;
+    src: local('Beep Thin'), local('Beep-Thin'), url("/fonts/Beep-Thin.otf") format('opentype')
+}
+/* ... */
+@font-face {
+    font-family: 'Beep';
+    font-style: normal;
+    /* UltraLight */
+    font-weight: 200;
+    src: local('Beep UltraLight'), local('Beep-UltraLight'), url("/fonts/Beep-UltraLight.otf") format('opentype')
+}
+/* ... */
+@font-face {
+    font-family: 'Beep';
+    font-style: normal;
+    /* Light */
+    font-weight: 300;
+    src: local('Beep Light'), local('Beep-Light'), url("/fonts/Beep-Light.otf") format('opentype')
+}
+/* ... */
+@font-face {
+    font-family: 'Beep';
+    font-style: normal;
+    /* Regular */
+    font-weight: 400;
+    src: local('Beep Regular'), local('Beep-Regular'), url("/fonts/Beep-Regular.otf") format('opentype')
+}
+/* ... */
+@font-face {
+    font-family: 'Beep';
+    font-style: normal;
+    /* Medium */
+    font-weight: 500;
+    src: local('Beep Medium'), local('Beep-Medium'), url("/fonts/Beep-Medium.otf") format('opentype')
+}
+/* ... */
+@font-face {
+    font-family: 'Beep';
+    font-style: normal;
+    /* Semi-Bold */
+    font-weight: 600;
+    src: local('Beep Semi Bold'), local('Beep-SemiBold'), url("/fonts/Beep-SemiBold.otf") format('opentype')
+}
+/* ... */
+@font-face {
+    font-family: 'Beep';
+    font-style: normal;
+    /* Extra-Bold */
+    font-weight: 700;
+    src: local('Beep Bold'), local('Beep-Bold'), url("/fonts/Beep-Bold.otf") format('opentype')
+}
+/* ... */
+@font-face {
+    font-family: 'Beep';
+    font-style: normal;
+    /* Extra-Bold */
+    font-weight: 800;
+    src: local('Beep Extra Bold'), local('Beep-ExtraBold'), url("/fonts/Beep-ExtraBold.otf") format('opentype')
+}
+/* ... */
+@font-face {
+    font-family: 'Beep';
+    font-style: normal;
+    /* Ultra-Bold */
+    font-weight: 900;
+    src: local('Beep Ultra Bold'), local('Beep-UltraBold'), url("/fonts/Beep-UltraBold.otf") format('opentype')
+}
