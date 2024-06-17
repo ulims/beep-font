@@ -1,6 +1,7 @@
 ![](.images/poster.png)
 
 # Beep Sans
+Beep a font name derived from [Habeep](https://www.habeep.org) was created to replace the `Aeonik` font used in `Habeep Design System`.
 Beep Sans is a sans-serif typeface made for designers and developers, embodying modern principles of simplicity, minimalism, and speed. It is designed to be used in headers, body, logo, headlines, posters and other large display sizes.
 Beep, inspired by the clean lines and geometric forms of the Inter typeface [Inter](https://rsms.me/work/inter/) and [GeistSans](https://vercel.com/font), offers a modern take on sans-serif design.
 
